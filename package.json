@@ -1,0 +1,47 @@
+{
+  "name": "beecrowd-solutions-in",
+  "version": "1.0.0",
+  "description": "Question codes approved in URI Online Judge (or Beecrowd) site using only modern Javascript syntax (ES2016+)",
+  "private": "true",
+  "type": "commonjs",
+  "author": {
+    "name": "David Wesley",
+    "email": "contato.dwesley@outlook.com",
+    "url": "https://github.com/DavidWesley"
+  },
+  "engines": {
+    "node": ">=12.18.3",
+    "vscode": "^1.22.0"
+  },
+  "license": "GPL-3.0",
+  "scripts": {
+    "lint": "eslint",
+    "lint:fix": "eslint . --ext .js --fix",
+    "lint:all": "eslint src --ext .js --max-warnings=0 --fix",
+    "prepare": "husky install"
+  },
+  "keywords": [
+    "javascript",
+    "ECMAScript",
+    "uri-online-judge",
+    "beecrowd",
+    "beecrowd-solutions"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidWesley/new-beecrowd-solutions-in-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DavidWesley/new-beecrowd-solutions-in-js/issues"
+  },
+  "homepage": "https://github.com/DavidWesley/new-beecrowd-solutions-in-js#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.6.1",
+    "@commitlint/config-conventional": "^17.6.1",
+    "commitizen": "^4.3.0",
+    "cross-env": "^7.0.3",
+    "eslint": "^8.39.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.1"
+  }
+}
