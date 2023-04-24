@@ -1,0 +1,15 @@
+[color "status"]
+	added = green bold
+	changed = red bold strike
+	untracked = cyan
+	branch = yellow black bold ul
+
+
+[alias]             # Is this [-] only a comment in .gitconfig?
+	gb = git branch
+	gba = git branch -a
+	gc = git commit -v
+	gd = git diff | mate  
+	gl = git pull
+	gp = git push
+	gst = git status
