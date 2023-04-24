@@ -1,5 +1,5 @@
 {
-  "name": "beecrowd-solutions-in",
+  "name": "beecrowd-solutions-in-js",
   "version": "1.0.0",
   "description": "Question codes approved in URI Online Judge (or Beecrowd) site using only modern Javascript syntax (ES2016+)",
   "private": "true",
@@ -29,12 +29,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DavidWesley/new-beecrowd-solutions-in-js.git"
+    "url": "git+https://github.com/DavidWesley/beecrowd-solutions-in-js.git"
   },
   "bugs": {
-    "url": "https://github.com/DavidWesley/new-beecrowd-solutions-in-js/issues"
+    "url": "https://github.com/DavidWesley/beecrowd-solutions-in-js/issues"
   },
-  "homepage": "https://github.com/DavidWesley/new-beecrowd-solutions-in-js#readme",
+  "homepage": "https://github.com/DavidWesley/beecrowd-solutions-in-js#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.6.1",
     "@commitlint/config-conventional": "^17.6.1",
