@@ -14,16 +14,16 @@
 
 ## Solutions
 
-| CATEGORY                                                                                                              | DESCRIPTION                                                  | TOTAL PROBLEMS |
-| :-------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------- | :------------: |
-| [Beginner](https://github.com/DavidWesley/new-beecrowd-solutions-in-js/tree/main/src/beginner)                        | Basic problems for anyone who has just started to program... |      336       |
-| [Ad-Hoc](https://github.com/DavidWesley/new-beecrowd-solutions-in-js/tree/main/src/adhoc)                             | Simulation Problems, Dates, Games and general Ad-Hoc...      |      771       |
-| [Strings](https://github.com/DavidWesley/new-beecrowd-solutions-in-js/tree/main/src/strings)                          | Palindromes, Frequency, Ad-Hoc, LCS, String Manipulation...  |      148       |
-| [Data Structures and Libraries](https://github.com/DavidWesley/new-beecrowd-solutions-in-js/tree/main/src/structures) | Queue, Stack, Sort, Map, Set...                              |      179       |
-| [Mathematics](https://github.com/DavidWesley/new-beecrowd-solutions-in-js/tree/main/src/maths)                        | Number Theory, Prime Numbers, Combinatorics, BigInteger...   |      269       |
-| [Paradigms](https://github.com/DavidWesley/new-beecrowd-solutions-in-js/tree/main/src/paradigms)                      | Dynamic Programming, Binary Search, Greedy, Backtracking ... |      215       |
-| [Graph](https://github.com/DavidWesley/new-beecrowd-solutions-in-js/tree/main/src/graphs)                             | Flood Fill, MST, SSSP, DAG, Maximum Flow, Tree...            |      277       |
-| [Computational Geometry](https://github.com/DavidWesley/new-beecrowd-solutions-in-js/tree/main/src/geometry)          | Points and Lines, Polygon...                                 |       82       |
+| CATEGORY                                         | DESCRIPTION                                                  | TOTAL PROBLEMS |
+| :----------------------------------------------- | :----------------------------------------------------------- | :------------: |
+| [Beginner](/src/beginner)                        | Basic problems for anyone who has just started to program... |      336       |
+| [Ad-Hoc](/src/adhoc)                             | Simulation Problems, Dates, Games and general Ad-Hoc...      |      771       |
+| [Strings](/src/strings)                          | Palindromes, Frequency, Ad-Hoc, LCS, String Manipulation...  |      148       |
+| [Data Structures and Libraries](/src/structures) | Queue, Stack, Sort, Map, Set...                              |      179       |
+| [Mathematics](/src/maths)                        | Number Theory, Prime Numbers, Combinatorics, BigInteger...   |      269       |
+| [Paradigms](/src/paradigms)                      | Dynamic Programming, Binary Search, Greedy, Backtracking ... |      215       |
+| [Graph](/src/graphs)                             | Flood Fill, MST, SSSP, DAG, Maximum Flow, Tree...            |      277       |
+| [Computational Geometry](/src/geometry)          | Points and Lines, Polygon...                                 |       82       |
 
 ## Profile
 
