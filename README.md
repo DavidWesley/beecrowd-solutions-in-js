@@ -24,6 +24,7 @@
 | [Paradigms](/src/paradigms)                      | Dynamic Programming, Binary Search, Greedy, Backtracking ... |      215       |
 | [Graph](/src/graphs)                             | Flood Fill, MST, SSSP, DAG, Maximum Flow, Tree...            |      277       |
 | [Computational Geometry](/src/geometry)          | Points and Lines, Polygon...                                 |       82       |
+| [SQL](/src/SQL)                                  | Query Languages: Select, Insert, Update, Create              |       46       |
 
 ## Profile
 
