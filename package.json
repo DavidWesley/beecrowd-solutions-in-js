@@ -36,12 +36,12 @@
   },
   "homepage": "https://github.com/DavidWesley/beecrowd-solutions-in-js#readme",
   "devDependencies": {
-    "@commitlint/cli": "^17.6.1",
-    "@commitlint/config-conventional": "^17.6.1",
+    "@commitlint/cli": "^17.6.6",
+    "@commitlint/config-conventional": "^17.6.6",
     "commitizen": "^4.3.0",
     "cross-env": "^7.0.3",
     "eslint": "^8.39.0",
     "husky": "^8.0.3",
-    "lint-staged": "^13.2.1"
+    "lint-staged": "^13.2.2"
   }
 }
